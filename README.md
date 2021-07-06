@@ -1,16 +1,4 @@
-- 👋 Hi, my name is Daniel. I am a student at TU Graz and interested in Softwaredeveloping.
-
-My current learning path is to use this languages and frameworks in their ecosystems:
-
-- Javascript
-  -jQuery
-  -Vue
--C#
--Python
--PHP
--Solidity
-
-
+Hello there. I am Daniel and this is the space for my projects
 
 <!---
 DN285hg/DN285hg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
